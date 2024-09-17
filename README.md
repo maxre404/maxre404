@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#主营业务:android 正向开发 以及逆向破解 有大牛sdk 腾讯推拉流sdk 破解经验 相关咨询请联系 telegram:@Maxre404
+#主营业务:android 正向开发 以及逆向破解 有大牛推拉流sdk 腾讯推拉流sdk 破解经验 相关咨询请联系 telegram:@Maxre404
