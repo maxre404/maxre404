@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#主营业务:android 正向开发 以及逆向破解 有大牛推拉流sdk 腾讯推拉流sdk 破解经验 相关咨询请联系 telegram:@Maxre404
+🔭 目前专注于：Android 系统底层原理、媒体流传输协议 (Streaming Protocols) 及应用安全性分析。
+🌱 正在学习：Web 应用架构、网络安全防御技术、以及 AI 辅助的安全代码审计。
+⚡ 技术栈：Android Framework, NDK, C/C++, Network Security, Reverse Engineering (Security Analysis).
+💬 探讨方向：欢迎交流关于流媒体技术 (SDK 优化与适配)、Android 系统安全以及网络协议分析相关话题。
+📫 联系方式：Telegram: @Maxre404 (仅限技术交流)
